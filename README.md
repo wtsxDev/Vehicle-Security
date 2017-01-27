@@ -197,3 +197,10 @@ Companies and job opportunities in the vehicle security field.
 - [General Motors](https://hackerone.com/gm) on HackerOne - responsible disclosure submissions accepted
 - [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - responsible disclosure submissions accepted
 - [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - submissions accepted, paid bounties offered
+
+Please have a look at
+* [Best Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+* [Best Reverse Engineering Books](http://www.kalitut.com/2017/01/Best-reverse-engineering-books.html)
+* [Best Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
+* [Best 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
+* [Best Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
